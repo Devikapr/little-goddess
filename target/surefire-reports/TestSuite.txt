@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 38.37 s <<< FAILURE! - in TestSuite
+concepts.framework.practice.ValidateTitle.titleTextValidation  Time elapsed: 1.64 s  <<< FAILURE!
+java.lang.AssertionError: expected [featured courses] but found [FEATURED COURSES]
+	at concepts.framework.practice.ValidateTitle.titleTextValidation(ValidateTitle.java:30)
+
